@@ -58,8 +58,30 @@ and here we go! sudah berhasil push di github
 <img width="934" alt="image" src="https://github.com/irfanltf/remote-repository/assets/48278734/96dc353d-5051-4608-8247-b2e768bfd58e">
 
 
-___gambar 5.__ done upload to github_
+___gambar 6.__ done upload to github_
 
+
+## Mau tau cara yang lebih mudah?
+
+misalnya begini :
+saya sudah memperbarui kode saya seperti dibawah ini, secara otomatis visual studio code bisa mengenali perubahan yang terjadi
+
+<img width="808" alt="Screenshot 2023-09-07 at 19 58 15" src="https://github.com/irfanltf/remote-repository/assets/48278734/41493e3c-199d-42d1-bdde-0d5fefee11d2">
+
+___gambar 7.__ update code_
+
+
+selanjutnya silahkan klik saya pada tab source control tersebut, lalu anda bisa lakukan commit secara langsung
+
+<img width="553" alt="image" src="https://github.com/irfanltf/remote-repository/assets/48278734/b386dd02-6fd4-4204-9885-aff515668854">
+
+___gambar 8.__ commit without write script_
+
+dan terakir lakukan push ke branch master
+
+<img width="461" alt="image" src="https://github.com/irfanltf/remote-repository/assets/48278734/d1699260-cfc9-4ec4-8db1-05017d936397">
+
+___gambar 9.__ push to branch_
 
 
 ## License
