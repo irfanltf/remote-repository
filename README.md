@@ -14,7 +14,7 @@ cara untuk memastikannya adalah dengan membuka __terminal__ atau __CMD di Window
   
 <img width="322" alt="image" src="https://github.com/irfanltf/remote-repository/assets/48278734/5ca289e0-45a5-4446-a5f0-b62ed9748770">
 
-___gambar 0.__ install git 
+__gambar 0.__ install git 
 
 ## Pastikan sudah mempunyai repository di github
 
