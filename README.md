@@ -20,32 +20,48 @@ ___gambar 1.__ repository in github_
 
 ___gambar 2.__ open project folder to code editor_ 
 
-```bash
-pip install foobar
-```
 
-## Usage
+## Buka Terminal Pada Code Editor Visual Studio Code
+untuk membka terminal pada visual studio code anda dapat memilih __menu terminal__ > pilih __new terminal__
 
-```python
-import foobar
+<img width="1191" alt="image" src="https://github.com/irfanltf/remote-repository/assets/48278734/ca7d0d33-d5b9-4925-8c10-769dcc7a898a">
 
-# returns 'words'
-foobar.pluralize('word')
 
-# returns 'geese'
-foobar.pluralize('goose')
+___gambar 3.__ open terminal_
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+## Clonning Repository
+- untuk clonning repository anda dapat copy link bagian https (pada gambar 4)
+  
+<img width="412" alt="image" src="https://github.com/irfanltf/remote-repository/assets/48278734/5d18ad37-7693-44c7-8b76-1773a20e66a5">
 
-## Contributing
+___gambar 4.__ open terminal_
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+- masukan perintah berikut (ganti repository_url dengan link repository yang sudah anda copy sebelumnya) :
 
-Please make sure to update tests as appropriate.
+  ```bash
+  git init
+  git remote add origin <repositori_url>
+  git pull origin mater
+  git add .
+  git commit -m "message"
+  git push -u origin master
+  ```
+  
+<img width="970" alt="image" src="https://github.com/irfanltf/remote-repository/assets/48278734/a0fd5f95-af95-45d3-a088-457a9c78781c">
+
+
+___gambar 5.__ terminal script_
+
+
+and here we go! sudah berhasil push di github
+
+<img width="934" alt="image" src="https://github.com/irfanltf/remote-repository/assets/48278734/96dc353d-5051-4608-8247-b2e768bfd58e">
+
+
+___gambar 5.__ done upload to github_
+
+
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[mirfanlutfi](https://github.com/irfanltf)
