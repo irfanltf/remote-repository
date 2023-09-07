@@ -6,6 +6,16 @@ but in this article, wen jus't will only discuss how to remote a repository, so 
 
 _article will be continue in bahasa indonesia_
 
+## Pastikan sudah menginstall git di computer
+
+cara untuk memastikannya adalah dengan membuka __terminal__ atau __CMD di Windows__ > lalu ketikan `git -v` jika tampil seperti dibawah ini maka telah menginstall git, namun jika belum maka keterangan versi tersebut tidak akan muncul, maka dari itu silahkan download git pada halaman berikut ini
+- GIt for Windows https://git-scm.com/download/win
+- Git for Mac OS https://git-scm.com/download/mac
+  
+<img width="322" alt="image" src="https://github.com/irfanltf/remote-repository/assets/48278734/5ca289e0-45a5-4446-a5f0-b62ed9748770">
+
+___gambar 0.__ install git 
+
 ## Pastikan sudah mempunyai repository di github
 
 
