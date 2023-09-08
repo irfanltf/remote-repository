@@ -28,7 +28,7 @@ atau seperti gambar dibawah ini :
 
 <img width="558" alt="image" src="https://github.com/irfanltf/remote-repository/assets/48278734/f9418e44-d828-47c3-b5a4-c8891dc6b2f9">
 
-__gambar 0.1.__ install git 
+__gambar 0.1.__ configure git 
 
 jika sudah berhasil maka anda dapat melihat konfigurasi anda pada list configurasi dengan perintah :
 
@@ -71,20 +71,26 @@ ___gambar 3.__ open terminal_
 ___gambar 4.__ open terminal_
 
 - masukan perintah berikut (ganti repository_url dengan link repository yang sudah anda copy sebelumnya) :
+- branch name dapat dilihat, secara default ada yang menggunakan main atau master pada __gambar 5.1__
 
   ```bash
   git init
   git remote add origin <repositori_url>
-  git pull origin mater
+  git pull origin <branch name>
   git add .
   git commit -m "message"
-  git push -u origin master
+  git push -u origin <branch name>
   ```
   
 <img width="977" alt="image" src="https://github.com/irfanltf/remote-repository/assets/48278734/da7d94a6-f96e-474a-b142-f7fe994d8675">
 
 
 ___gambar 5.__ terminal script_
+
+
+<img width="917" alt="Screenshot 2023-09-09 at 00 05 05" src="https://github.com/irfanltf/remote-repository/assets/48278734/20ef957f-c730-4a39-8d88-665b6d2e04e8">
+
+___gambar 5.1__ pilih branch utama_
 
 
 and here we go! sudah berhasil push di github
