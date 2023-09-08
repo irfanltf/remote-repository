@@ -17,6 +17,26 @@ cara untuk memastikannya adalah dengan membuka __terminal__ atau __CMD di Window
 
 __gambar 0.__ install git 
 
+jika  sudah berhasil menginstall git kedalam sistem operasi anda, maka selanjutnya dapat lakukan  konfigurasi secara global nama dan email anda yang tehubung ke github
+dengan melakakukan perintah :
+
+```git
+git config --global user.name "Nama Anda"
+git config --global user.email "email@example.com"
+```
+atau seperti gambar dibawah ini :
+
+<img width="558" alt="image" src="https://github.com/irfanltf/remote-repository/assets/48278734/f9418e44-d828-47c3-b5a4-c8891dc6b2f9">
+
+__gambar 0.1.__ install git 
+
+jika sudah berhasil maka anda dapat melihat konfigurasi anda pada list configurasi dengan perintah :
+
+```git
+git config --list
+```
+
+
 ## Pastikan sudah mempunyai repository di github
 
 
